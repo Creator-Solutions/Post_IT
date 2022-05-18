@@ -1,6 +1,6 @@
 # Post IT
 
-![APM](https://img.shields.io/apm/l/npm) ![GitHub repo size](https://img.shields.io/github/repo-size/Creator-Solutions/Web-Development) ![GitHub branch checks state](https://img.shields.io/github/checks-status/creator-solutions/post_it/origin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/creator-solutions/post_it)
+![APM](https://img.shields.io/apm/l/npm) ![GitHub repo size](https://img.shields.io/github/repo-size/Creator-Solutions/Post_IT) ![GitHub branch checks state](https://img.shields.io/github/checks-status/creator-solutions/Post_IT/origin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/creator-solutions/Post_IT)
 
 > Official Repo for Web Scraping Project
 
