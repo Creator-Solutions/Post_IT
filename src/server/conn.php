@@ -2,10 +2,10 @@
 
 class DatabaseHelper{
 
-    private static $server;
-    private static $user;
-    private static $password;
-    private static $dbname;
+    private static $server = "localhost";
+    private static $user = "root";
+    private static $password = "";
+    private static $dbname = "post_it";
 
     public static $conn;
 
